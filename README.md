@@ -100,9 +100,3 @@ A detailed look into how observation trends differ across animal categories and 
 - Statistical and visual tools can effectively surface patterns to guide conservation efforts.
 - More robust monitoring may be needed for less frequently observed endangered species.
 
----
-
-## 📎 Author
-
-Developed by **CodeCad** — exploring data one project at a time.
-
